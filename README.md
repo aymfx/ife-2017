@@ -23,7 +23,7 @@
 
 ### 开发环境
 
-> npm i 
+> npm i
 
 > npm run dev
 
@@ -57,4 +57,4 @@ npm test
 
 ## 我的线上地址
 
-> https://www.demo.ldyldy.cn
+> http://www.demo.ldyldy.cn
